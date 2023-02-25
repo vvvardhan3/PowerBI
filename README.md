@@ -1,4 +1,4 @@
-# PowerBI
+# Revenue Insights 
 Creating Dashboard to breakdown Revenue Insights in Hospitality Domain Company 'OYO'.
 
 This Data file contains all the meta information regarding the columns described in the CSV files. we have 5 CSV files:
